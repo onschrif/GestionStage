@@ -1,0 +1,6 @@
+
+In Filesystem.php line 122:
+                                                                                                                                                      
+  file_put_contents(D:\wamp64\www\test\database\migrations/2018_07_15_103127_create_D:\wamp64\www\test.php): failed to open stream: Invalid argument  
+                                                                                                                                                      
+
